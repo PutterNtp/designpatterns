@@ -1,9 +1,9 @@
-package CompositePattern;
+package L08.CompositePattern;
 
-import AbstractFactoryPattern.AbstractDuckFactory;
-import AbstractFactoryPattern.CoutingDuckFactory;
-import AdapterPattern.*;
-import Duck.Pigeon;
+import L08.AbstractFactoryPattern.AbstractDuckFactory;
+import L08.AbstractFactoryPattern.CoutingDuckFactory;
+import L08.AdapterPattern.*;
+import L08.Duck.Pigeon;
 
 public class DuckSimulator {
     public static void main(String[] args) {

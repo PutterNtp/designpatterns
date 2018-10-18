@@ -1,6 +1,6 @@
-package Duck;
+package L08.Duck;
 
-import AdapterPattern.Quackable;
+import L08.AdapterPattern.Quackable;
 
 public class DuckCall implements Quackable {
     @Override

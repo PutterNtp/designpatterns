@@ -1,6 +1,6 @@
-package AbstractFactoryPattern;
+package L08.AbstractFactoryPattern;
 
-import AdapterPattern.Quackable;
+import L08.AdapterPattern.Quackable;
 
 public abstract class AbstractDuckFactory {
     public abstract Quackable createMallardDuck();

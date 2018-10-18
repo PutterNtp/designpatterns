@@ -1,4 +1,4 @@
-package AdapterPattern;
+package L08.AdapterPattern;
 
 public class GooseAdapter implements Quackable {
     Goose goose;

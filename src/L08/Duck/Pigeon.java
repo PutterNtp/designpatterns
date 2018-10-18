@@ -1,4 +1,4 @@
-package Duck;
+package L08.Duck;
 
 public class Pigeon {
     public void coo(){

@@ -1,7 +1,11 @@
-package DecolatorPattern;
+package L08.DecolatorPattern;
 
-import AdapterPattern.*;
-import Duck.*;
+import L08.AdapterPattern.QuackCounter;
+import L08.AdapterPattern.Quackable;
+import L08.Duck.DuckCall;
+import L08.Duck.MallardDuck;
+import L08.Duck.RedheadDuck;
+import L08.Duck.RubberDuck;
 
 public class DuckSimulator {
     public static void main(String[] args) {

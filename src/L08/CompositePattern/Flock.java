@@ -1,6 +1,6 @@
-package CompositePattern;
+package L08.CompositePattern;
 
-import AdapterPattern.Quackable;
+import L08.AdapterPattern.Quackable;
 
 import java.util.ArrayList;
 import java.util.Iterator;

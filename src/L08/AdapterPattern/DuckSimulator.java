@@ -1,6 +1,6 @@
-package AdapterPattern;
+package L08.AdapterPattern;
 
-import Duck.*;
+import L08.Duck.*;
 
 public class DuckSimulator {
     public static void main(String[] args) {

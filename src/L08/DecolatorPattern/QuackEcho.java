@@ -1,6 +1,6 @@
-package DecolatorPattern;
+package L08.DecolatorPattern;
 
-import AdapterPattern.Quackable;
+import L08.AdapterPattern.Quackable;
 
 public class QuackEcho implements Quackable {
     Quackable duck;

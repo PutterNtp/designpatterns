@@ -1,9 +1,9 @@
-package AbstractFactoryPattern;
+package L08.AbstractFactoryPattern;
 
-import AdapterPattern.Goose;
-import AdapterPattern.GooseAdapter;
-import AdapterPattern.QuackCounter;
-import AdapterPattern.Quackable;
+import L08.AdapterPattern.Goose;
+import L08.AdapterPattern.GooseAdapter;
+import L08.AdapterPattern.QuackCounter;
+import L08.AdapterPattern.Quackable;
 
 public class DuckSimulator {
     public static void main(String[] args) {
